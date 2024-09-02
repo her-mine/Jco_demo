@@ -1,0 +1,10 @@
+ldx:
+  jco:
+    ashost: 192.168.xx.xx  # server address
+    sysnr: xx  # system number
+    client: xxxx  # system environment
+    user: xxxxxx  # user
+    passwd: xxxxxx  # password
+    lang: zh  # language
+    poolCapacity: 20  # max connections
+    peakLimit: 5  # max connection threads

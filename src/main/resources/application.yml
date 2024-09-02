@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: jco_framework
+  profiles:
+    active: dev
+
+
